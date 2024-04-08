@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **arjunagarwal023@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/133ZhKRE7Jn8LFHJfOiloqdpQaNi9yvXq/view?usp=sharing](https://drive.google.com/file/d/133ZhKRE7Jn8LFHJfOiloqdpQaNi9yvXq/view?usp=sharing)
+- 📄 Know about my experiences<a href="https://drive.google.com/file/d/133ZhKRE7Jn8LFHJfOiloqdpQaNi9yvXq/view?usp=sharing">  my resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
