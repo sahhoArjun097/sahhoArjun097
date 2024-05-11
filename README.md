@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ARJUN AGARWAL</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 >I'm a passionate web developer currently pursuing my B.Tech at Moradabad Institute of Technology. My journey in the world of coding began with curiosity and has since evolved into a love for creating innovative web solutions.</h3>
 
 - 🌱 I’m currently learning **Full-Stack Web Development.**
 
