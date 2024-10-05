@@ -6,7 +6,7 @@
 - 📫 How to reach me **arjunagarwal023@gmail.com**
 
 - 📄 Know about my experiences<a href="https://drive.google.com/file/d/1O1QVdrXNF6KAYjLV2naTs-HlpFG7p0D6/view?usp=sharing">  my resume </a>
-- 📄 My portfolio <a href="https://portfolio-arjun08.vercel.app/">  portfolio.com </a>
+- 📄 My portfolio <a href="https://arjunagarwal.vercel.app/">  portfolio.com </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arjun-agarwal-b0270b229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjun-agarwal-b0270b229/" height="30" width="40" /></a>
