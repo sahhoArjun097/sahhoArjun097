@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ARJUN AGARWAL</h1>
-![Procoder GIF](https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif)
+
 
 
 <h3 >I'm a passionate web developer currently pursuing my B.Tech at Moradabad Institute of Technology. My journey in the world of coding began with curiosity and has since evolved into a love for creating innovative web solutions.</h3>
