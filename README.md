@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ARJUN AGARWAL</h1>
 <h3 align="center">I'm a passionate web developer currently pursuing my B.Tech at Moradabad Institute of Technology. My journey in the world of coding began with curiosity and has since evolved into a love for creating innovative web solutions.</h3>
+<img src="https://drive.google.com/uc?export=view&id=1TfhV_T8YvFmvUqK69Ib5aoHWM0J_Cl1M" alt="Google Drive GIF" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahhoarjun097&label=Profile%20views&color=0e75b6&style=flat-square" alt="sahhoarjun097" /> </p>
 
