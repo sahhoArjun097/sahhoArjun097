@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate web developer currently pursuing my B.Tech at Moradabad Institute of Technology. My journey in the world of coding began with curiosity and has since evolved into a love for creating innovative web solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahhoarjun097" alt="sahhoarjun097" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/sahhoArjun097=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="left"> <a href="https://twitter.com/@saaho94539047" target="blank"><img src="https://img.shields.io/twitter/follow/@saaho94539047?logo=twitter&style=for-the-badge" alt="@saaho94539047" /></a> </p>
 
