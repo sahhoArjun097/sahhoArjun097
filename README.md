@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm ARJUN AGARWAL</h1>
 <h3 align="center">I'm a passionate web developer currently pursuing my B.Tech at Moradabad Institute of Technology. My journey in the world of coding began with curiosity and has since evolved into a love for creating innovative web solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahhoarjun097&label=Profile%20views&color=0e75b6&style=flat-square" alt="sahhoarjun097" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahhoarjun097" alt="sahhoarjun097" /></a> </p>
 
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@saaho94539047" target="blank"><img src="https://img.shields.io/twitter/follow/@saaho94539047?logo=twitter&style=for-the-badge" alt="@saaho94539047" /></a> </p>
 
 - 🌱 I’m currently learning **Full-Stack Web Development.**
 
@@ -20,7 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@saaho94539047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saaho94539047" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arjun-agarwal-b0270b229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjun-agarwal-b0270b229/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/arjun_agarwal05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arjun_agarwal05/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
