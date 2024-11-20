@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development.**
 
-- 👨‍💻 All of my projects are available at [arjunagarwal.vercel.app](arjunagarwal.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](arjunagarwal.vercel.app)
 
 - 💬 Ask me about **react ,javascript**
 
