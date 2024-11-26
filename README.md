@@ -25,6 +25,23 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahhoArjun097&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahhoArjun097&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## GSSOC(24) Badges 🪶
+
+I am excited to share the badges I have earned from the GSSOC (GirlScript Summer of Code) 2024 program. You can find more details and see my achieveme
+
+<div align="center" dir="auto">
+  <a href="https://gssoc.girlscript.tech/leaderboard" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="85px" height="85px" style="max-width: 100%;">
+    <img src="https://github.com/girlscript/gssoc-website-new/raw/main/public/badges/1.png" width="85px" height="85px" style="max-width: 100%;">
+    <img src="https://github.com/girlscript/gssoc-website-new/raw/main/public/badges/2.png" width="85px" height="85px" style="max-width: 100%;">
+    <img src="https://github.com/girlscript/gssoc-website-new/raw/main/public/badges/3.png" width="85px" height="85px" style="max-width: 100%;">
+    <img src="https://github.com/girlscript/gssoc-website-new/raw/main/public/badges/4.png" width="85px" height="85px" style="max-width: 100%;">
+    <img src="https://github.com/girlscript/gssoc-website-new/raw/main/public/badges/5.png" width="85px" height="85px" style="max-width: 100%;">
+    <img src="https://github.com/girlscript/gssoc-website-new/raw/main/public/badges/6.png" width="85px" height="85px" style="max-width: 100%;">
+    <img src="https://github.com/girlscript/gssoc-website-new/raw/main/public/badges/7.png" width="85px" height="85px" style="max-width: 100%;">
+    <img src="https://github.com/girlscript/gssoc-website-new/raw/main/public/badges/8.png" width="85px" height="85px" style="max-width: 100%;">
+  </a>
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sahhoArjun097&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
