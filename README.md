@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://arjunagarwal.vercel.app/)
 
-- 💬 Ask me about **react , javascript**
+- 💬 Ask me about **react,javascript**
 
 - 📫 How to reach me **arjunagarwal023@gmail.com**
 
