@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arjunagarwal023@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Rm6u4JYys2o-sa0iFKkgtCoS-AEjf-F1/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1yIwz6QJCF8u7oGzuAfBouy6w2jdPT4yH/view?usp=sharing)
 
 
 
