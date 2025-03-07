@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react,javascript**
 
-- 📫 How to reach me **arjunagarwal023@gmail.com**
+- 📫 How to reach me : **arjunagarwal023@gmail.com**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1yIwz6QJCF8u7oGzuAfBouy6w2jdPT4yH/view?usp=sharing)
 
